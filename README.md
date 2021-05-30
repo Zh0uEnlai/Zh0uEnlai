@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zh0uEnlai
-- 👀 I’m interested in replacing corporate autocracies with worker democracies. 
-- 🌱 I’m currently learning dialectical materialism.
+- 👀 I’m interested in democractic projects.
+- 🌱 I’m currently learning NixOS.
 - 💞️ I’m looking to collaborate on leftist projects.
 - 📫 How to reach me ...
 
